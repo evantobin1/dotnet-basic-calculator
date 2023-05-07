@@ -1,0 +1,11 @@
+D:\Projects\repos\dotnet-basic-calculator\bin\Debug\dotnet-basic-calculator.exe.config
+D:\Projects\repos\dotnet-basic-calculator\bin\Debug\dotnet-basic-calculator.exe
+D:\Projects\repos\dotnet-basic-calculator\bin\Debug\dotnet-basic-calculator.pdb
+D:\Projects\repos\dotnet-basic-calculator\obj\Debug\dotnet-basic-calculator.csproj.AssemblyReference.cache
+D:\Projects\repos\dotnet-basic-calculator\obj\Debug\dotnet-basic-calculator.csproj.SuggestedBindingRedirects.cache
+D:\Projects\repos\dotnet-basic-calculator\obj\Debug\dotnet_basic_calculator.Properties.Resources.resources
+D:\Projects\repos\dotnet-basic-calculator\obj\Debug\dotnet-basic-calculator.csproj.GenerateResource.cache
+D:\Projects\repos\dotnet-basic-calculator\obj\Debug\dotnet-basic-calculator.csproj.CoreCompileInputs.cache
+D:\Projects\repos\dotnet-basic-calculator\obj\Debug\dotnet-basic-calculator.exe
+D:\Projects\repos\dotnet-basic-calculator\obj\Debug\dotnet-basic-calculator.pdb
+D:\Projects\repos\dotnet-basic-calculator\obj\Debug\dotnet_basic_calculator.Calculator.resources
